@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292px" height="235px" viewBox="0 0 292 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>99B24815-1DD7-4F58-B54B-9E1FB32B0AE8@1x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="292" height="235"></rect>
+        <polygon id="path-3" points="0.8737 0.8101 241.1267 0.8101 241.1267 201 0.8737 201"></polygon>
+    </defs>
+    <g id="Spot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Spot-/-Number-1---Yellow">
+            <g id="Oval">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+            </g>
+            <g id="Group-29" transform="translate(25.000000, 27.000000)">
+                <g id="Group-105">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-104"></g>
+                    <path d="M241.1267,122.8771 C241.1267,159.6861 227.5607,190.6811 204.3177,212.0001 L37.6817,212.0001 C14.4307,190.6811 0.8737,159.6861 0.8737,122.8771 C0.8737,107.9691 3.4027,93.7121 8.0677,80.5501 C8.5487,79.1921 9.0527,77.8421 9.5807,76.5071 C9.7897,75.9721 9.9997,75.4441 10.2247,74.9081 C12.2737,69.9191 14.6327,65.0991 17.2867,60.4821 C37.8987,24.6501 76.0427,0.8101 120.9997,0.8101 C188.8127,0.8101 241.1267,55.0571 241.1267,122.8771" id="Fill-103" fill="#FFE640" mask="url(#mask-4)"></path>
+                </g>
+                <polygon id="Fill-106" fill="#C39B25" points="139.6502 198.1842 140.2112 67.6922 106.5332 66.5162 130.0392 34.9932 121.1912 43.3722 97.6852 74.8952 131.3622 76.0712 130.8022 206.5632 165.6312 207.7792 174.4802 199.4002"></polygon>
+                <polygon id="Fill-107" fill="#FDFDFD" points="175.1793 36.5695 174.4793 199.4005 139.6503 198.1845 140.2113 67.6925 106.5333 66.5165 130.0393 34.9925"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
